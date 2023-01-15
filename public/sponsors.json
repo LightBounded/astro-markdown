@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Department of Veterans Affairs",
+    "imageURL": "",
+    "siteURL": "http://www.va.gov/",
+    "type": "current"
+  },
+  {
+    "name": "National Science Foundation",
+    "imageURL": "",
+    "siteURL": "http://www.nsf.gov/",
+    "type": "current"
+  },
+  {
+    "name": "Northrop Grumman",
+    "imageURL": "",
+    "siteURL": "http://www.northropgrumman.com/",
+    "type": "current"
+  },
+  {
+    "name": "Unknot.id",
+    "imageURL": "",
+    "siteURL": "http://unknot.id/",
+    "type": "current"
+  }
+]
